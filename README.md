@@ -1,11 +1,11 @@
 <h1 align="center">Flutter Awesome Animation</h1>
 <div align="center">  
-<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/stargazers"><img src="https://img.shields.io/github/stars/clubgamma/Awesome-Flutter-Art?style=flat"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/network/members"><img src="https://img.shields.io/github/forks/clubgamma/Awesome-Flutter-Art?style=flat"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/pulls"><img src="https://img.shields.io/github/issues-pr/clubgamma/Awesome-Flutter-Art?style=flat?color=yellow"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues"><img src="https://img.shields.io/github/issues/clubgamma/Awesome-Flutter-Art?style=flat"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/graphs/contributors"><img src="https://img.shields.io/github/contributors/clubgamma/Awesome-Flutter-Art?color=orange"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/clubgamma/Awesome-Flutter-Art?color=1abc9c"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/stargazers"><img src="https://img.shields.io/github/stars/hutomosaktikartiko/flutter-awesome-animation?style=flat"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/network/members"><img src="https://img.shields.io/github/forks/hutomosaktikartiko/flutter-awesome-animation?style=flat"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/pulls"><img src="https://img.shields.io/github/issues-pr/hutomosaktikartiko/flutter-awesome-animation?style=flat?color=yellow"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/issues"><img src="https://img.shields.io/github/issues/hutomosaktikartiko/flutter-awesome-animation?style=flat"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/graphs/contributors"><img src="https://img.shields.io/github/contributors/hutomosaktikartiko/flutter-awesome-animation?color=orange"/></a>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hutomosaktikartiko/flutter-awesome-animation?color=1abc9c"/></a>
 <br>
   
 [![](https://img.shields.io/badge/Club_Gamma-Code_of_conduct-%23FF0000.svg?&style=flat&logoColor=white&color=red)](https://clubgamma.github.io/code-of-conduct/)
@@ -13,10 +13,6 @@
 <br><br>
 </div>
 
-A curated list of awesome Flutter artwork 🤩.
+A curated list of awesome Flutter animation 🤩.
 
-The repo contains awesome creations made using an awesome UI framework **Flutter** 💙 like Single Page UIs/Multipage UIs/Cool and innovative animations. All the contributions are made by some enthusiastic and innovative Flutter Devs.
-
-Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/CONTRIBUTING.md) to start your open source contribution.
-
-# Art-Work
+The repo contains awesome creations made using an awesome UI framework **Flutter** 💙 like innovative animations. All the contributions are made by some enthusiastic and innovative Flutter Devs.
