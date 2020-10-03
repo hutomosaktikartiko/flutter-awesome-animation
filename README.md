@@ -12,3 +12,26 @@
 A curated list of awesome Flutter animation 🤩.
 
 The repo contains awesome creations made using an awesome UI framework **Flutter** 💙 like innovative animations. All the contributions are made by some enthusiastic and innovative Flutter Devs.
+
+Read the [CONTRIBUTING.md](https://github.com/clubgamma/flutter-awesome-animation/blob/master/CONTRIBUTING.md) to start your open source contribution.
+
+# Art-Work
+
+| Art💖                                                                                                                                  | Code📃                                                                                                             | Artist😎                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| <img src="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/ripple_animation.gif" width=65% height=80%> | [Find the code here](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/riplle_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
+
+# Things to keep in mind
+
+- **If a maintainer reports behavior that’s not in line with the project’s code of conduct, then you will be ineligible to participate.**
+
+## Let's Code Together
+
+<br>
+<div align="center">  
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
+<a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
+<br>
+
+</div>
