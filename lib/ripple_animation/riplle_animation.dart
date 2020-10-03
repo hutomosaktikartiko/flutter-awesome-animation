@@ -22,7 +22,7 @@ class _RippleAnimationState extends State<RippleAnimation>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Riplle Animation")),
+      appBar: AppBar(title: Text("Ripple Animation")),
       body: _buildBody(),
     );
   }

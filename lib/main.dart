@@ -1,4 +1,4 @@
-import 'package:awesome_animation/riplle_animation.dart';
+import 'package:awesome_animation/ripple_animation/riplle_animation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
