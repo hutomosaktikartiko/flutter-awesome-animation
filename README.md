@@ -19,7 +19,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/flutter-awesome-animatio
 
 | Art💖                                                                                                                                  | Code📃                                                                                                             | Artist😎                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| <img src="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/ripple_animation.gif" width=65% height=80%> | [Find the code here](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/riplle_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
+| <img src="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/ripple_animation.gif" width=70% height=80%> | [Find the code here](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/riplle_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
 
 # Things to keep in mind
 
@@ -29,6 +29,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/flutter-awesome-animatio
 
 <br>
 <div align="center">  
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
 <a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
