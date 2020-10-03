@@ -19,7 +19,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/flutter-awesome-animatio
 
 | Art💖                                                                                                                                  | Code📃                                                                                                             | Artist😎                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| <img src="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/ripple_animation.gif" width=65% height=80%> | [Find the code here](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/riplle_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
+| <img src="https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/ripple_animation.gif"> | [Find the code here](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/lib/ripple_animation/riplle_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
 
 # Things to keep in mind
 
