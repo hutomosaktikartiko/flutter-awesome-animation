@@ -13,7 +13,7 @@ A curated list of awesome Flutter animation 🤩.
 
 The repo contains awesome creations made using an awesome UI framework **Flutter** 💙 like innovative animations. All the contributions are made by some enthusiastic and innovative Flutter Devs.
 
-Read the [CONTRIBUTING.md](https://github.com/clubgamma/flutter-awesome-animation/blob/master/CONTRIBUTING.md) to start your open source contribution.
+Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/flutter-awesome-animation/blob/master/CONTRIBUTING.md) to start your open source contribution.
 
 # Art-Work
 
